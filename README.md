@@ -26,7 +26,7 @@ A note-taking application built with **React** and **Material UI**.
     │ ├── components/
     │ │ ├── App.jsx # Main app logic (state + rendering notes)
     │ │ ├── Header.jsx # Top navigation with app title
-    │ │ ├── Footer.jsx # Footer with copyright
+    │ │ ├── Footer.jsx # Footer element
     │ │ ├── Note.jsx # Individual note component
     │ │ └── CreateArea.jsx # Input form for adding notes
     │ │
