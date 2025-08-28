@@ -1,6 +1,6 @@
 # 📝 React Note-Taking App
 
-A simple and elegant note-taking application built with **React** and **Material UI**, inspired by Google Keep.  
+A note-taking application built with **React** and **Material UI**, inspired by Google Keep.  
 👉 Live Demo: [React Note-Taking App](https://folaarr.github.io/react-note-taking-app/)
 
 ---
