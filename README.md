@@ -11,7 +11,7 @@ A note-taking application built with **React** and **Material UI**.
 - 🗑️ Delete notes instantly  
 - 🎨 Responsive and clean UI styled with CSS + Material UI  
 - 📱 Mobile-friendly layout  
-- ⚡ Interactive animations with Material UI’s Zoom & Fab  
+- ⚡ Interactive animations
 
 ---
 
