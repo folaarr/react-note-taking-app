@@ -1,7 +1,7 @@
 # 📝 React Note-Taking App
 
 A note-taking application built with **React** and **Material UI**.  
-[👉 Live Demo](https://folaarr.github.io/react-note-taking-app/)
+👉 [Live Demo](https://folaarr.github.io/react-note-taking-app/)
 
 ---
 
