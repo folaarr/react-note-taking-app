@@ -20,8 +20,7 @@ A note-taking application built with **React** and **Material UI**.
     react-note-taking-app/
     ├── public/
     │ ├── index.html # Base HTML structure
-    │ ├── styles.css # Global styles
-    │ └── favicon.ico # App icon
+    │ └── styles.css # Global styles
     │
     ├── src/
     │ ├── components/
